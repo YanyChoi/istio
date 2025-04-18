@@ -85,6 +85,7 @@ _internal_defaults_do_not_set:
 
   # Pod environment variables
   env: {}
+  envFrom: []
 
   # Deployment Update strategy
   strategy: {}
